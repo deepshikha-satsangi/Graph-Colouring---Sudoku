@@ -8,7 +8,7 @@ Graph Coloring :  Graph coloring is colouring vertices such that no two adjacent
 Here we are using Greedy Coloring Approach 
 
 Algorithm : 
-The Idea is to assign colors one by one to different vertices, starting from the vertex 0. Before assigning a colour, check for safety by considering already assigned colour to the adjacent vertices. Check if the adjacent vertices have the same colour or not. If there is any colour that does not violet the conditions, mark the colour assignment as part of the solution.
+The Idea is to assign colors one by one to different vertices, starting from the vertex 0. Before assigning a color, check for safety by considering already assigned color to the adjacent vertices. Check if the adjacent vertices have the same color or not. If there is any color that does not violet the conditions, mark the color assignment as part of the solution.
 
 Step 1 − Arrange the vertices of the graph in some order.
 
